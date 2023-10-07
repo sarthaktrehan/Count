@@ -1,3 +1,0 @@
-pandas @ file:///C:/miniconda3/conda-bld/pandas_1692298018988/work
-redshift-connector==2.0.914
-ujson @ file:///C:/ci_311/ujson_1676434714224/work
