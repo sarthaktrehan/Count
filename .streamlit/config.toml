@@ -1,4 +1,4 @@
-[profile]
+
 profile_name = nv-redshift-developer-datalake
 region = eu-north-1
 sso_account_id = 726406984899
@@ -9,7 +9,7 @@ sso_start_url = https://northvolt.awsapps.com/start#/
 
  
 
-[profile]
+
 profile_name = nv-datalake
 region = eu-north-1
 sso_account_id = 726406984899
