@@ -1,3 +1,0 @@
-pandas 
-redshift-connector==2.0.914
-json
